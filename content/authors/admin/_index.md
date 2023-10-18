@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: singhanj@usc.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,9 +51,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anjalis2112/
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:singhanj@usc.edu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
