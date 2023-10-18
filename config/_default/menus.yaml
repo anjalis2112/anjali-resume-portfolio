@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: CV
+  - name: Resume
     url: uploads/resume.pdf
     weight: 20
   - name: Work Experience
@@ -19,15 +19,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Volunteer Work
-    url: '#volunteer'
-    weight: 60
   - name: Extracurriculars
     url: '#extracurricular'
-    weight: 70
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 70
   
 
 # Link to a PDF of your resume/CV from the menu.
