@@ -53,7 +53,7 @@ social:
     link: https://www.linkedin.com/in/anjalis2112/
   - icon: envelope
     icon_pack: fas
-    link: singhanj@usc.edu
+    link: mailto:singhanj@usc.edu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
