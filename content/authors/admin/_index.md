@@ -22,7 +22,7 @@ organizations:
     url: https://www.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, natural language processing and software development.
 
 # Interests to show in About widget
 interests:
@@ -33,12 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Masters (M.S.) in Computer Science
+    - course: Masters in Computer Science
       institution: University of Southern California
-      year: Fall, 2023 - Present
-    - course: Bachelors (BTech.) in Information Technology
+      year: Fall'23-Present
+    - course: Bachelors in Information Technology
       institution: Manipal Institute of Technology
-      year: 2018 - 2022
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,6 +51,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anjalis2112/
+  - icon: envelope
+    icon_pack: fas
+    link: singhanj@usc.edu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
