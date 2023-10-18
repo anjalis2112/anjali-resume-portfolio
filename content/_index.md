@@ -53,14 +53,14 @@ sections:
           icon: java
           icon_pack: fab
         - name: C++
-          icon: square-terminal
+          icon: terminal
           icon_pack: fas
         - name: Full-Stack Development
-          icon: code-simple
+          icon: laptop-code
           icon_pack: fas
         - name: Machine Learning
-          icon: head-side-gear
-          icon_pack: fad
+          icon: brain
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
