@@ -123,7 +123,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/KFRYT4SCUHTF?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n
           date_end: '2021-08-10'
-          date_start: ''
+          date_start: '2021-08-10'
           description: 'Prerequisite mathematics for application in data science and machine learning'
           organization: Coursera
           organization_url: https://www.coursera.org
@@ -131,7 +131,7 @@ sections:
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/Z6VRBQACUQXG
           date_end: '2021-04-02'
-          date_start: ''
+          date_start: '2021-04-02'
           description: Fundamentals of deep learning and AI
           organization: Coursera
           organization_url: https://www.coursera.org
