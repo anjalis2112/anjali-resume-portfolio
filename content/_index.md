@@ -82,8 +82,7 @@ sections:
           date_start: '2022-08-08'
           date_end: '2023-06-30'
           description: |2-
-              Responsibilities include:
-
+          
               * Full Stack Development
               * Testing Suite
               * Deployment of applications on AWS
@@ -192,7 +191,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id: singhanj@usc.edu
+          id: mjvqjqlk
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
