@@ -62,6 +62,7 @@ sections:
           icon: brain
           icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -109,6 +110,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: certifications
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certifications'
@@ -190,7 +192,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id:
+          id: singhanj@usc.edu
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
