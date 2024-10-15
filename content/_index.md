@@ -52,14 +52,17 @@ sections:
         - name: Java
           icon: java
           icon_pack: fab
-        - name: C++
-          icon: terminal
+        - name: NLP
+          icon: comments
           icon_pack: fas
         - name: Full-Stack Development
           icon: laptop-code
           icon_pack: fas
         - name: Machine Learning
           icon: brain
+          icon_pack: fas
+        - name: Swift Application Development
+          icon: mobile-alt
           icon_pack: fas
   - block: experience
     id: experience
@@ -74,6 +77,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Machine Learning Engineering Intern
+          company: SAP Ariba, Inc. 
+          company_url: 'https://www.sap.com/products/spend-management/ariba-login.html'
+          company_logo: sap
+          location: Palo Alto, California
+          date_start: '2024-06-17'
+          date_end:
+          description: |2-
+              * Developed a high-performance volume testing framework using Gatling, Java, and React, cutting request latency by 20%
+              * Led the front-end development of the Deal Management Website, significantly enhancing the user interface and experience
+              * Migrated critical on-prem services to AWS, unlocking improved scalability and system efficiency
         - title: Engineering Analyst
           company: Goldman Sachs
           company_url: 'https://www.goldmansachs.com'
@@ -82,10 +96,9 @@ sections:
           date_start: '2022-08-08'
           date_end: '2023-06-30'
           description: |2-
-          
-              * Full Stack Development
-              * Testing Suite
-              * Deployment of applications on AWS
+              * Developed a high-performance volume testing framework using Gatling, Java, and React, cutting request latency by 20%
+              * Led the front-end development of the Deal Management Website, significantly enhancing the user interface and experience
+              * Migrated critical on-prem services to AWS, unlocking improved scalability and system efficiency
         - title: Summer Intern
           company: Goldman Sachs
           company_url: 'https://www.goldmansachs.com'
@@ -94,8 +107,8 @@ sections:
           date_start: '2021-06-07'
           date_end: '2021-07-16'
           description: |2-
-              * Revamping existing Appraisal Module using Django and Appian
-              * End-to-end automated testing
+              * Participated in phasing out legacy applications, contributing to system modernization using Django and Appian
+              * Designed and developed a new webpage for appraisal data entry, delivering a more intuitive and user-friendly interface
         - title: Global Remote Mentorship Intern
           company: IBM
           company_url: 'https://www.ibm.com/us-en'
@@ -104,7 +117,8 @@ sections:
           date_start: '2020-08-07'
           date_end: '2021-05-16'
           description: |2-
-              * Research Work on GNN and Explainability
+              * Explored explainability challenges in Graph Neural Networks, using the Entity Matching task to derive insights from tabular data
+              * Suggested improvements for GNN explanations by emphasizing key features, node-level insights, and the importance of contextual edges
               * Research published at the ICML XAI, 2021 Workshop
     design:
       columns: '2'
