@@ -85,9 +85,9 @@ sections:
           date_start: '2024-06-17'
           date_end:
           description: |2-
-              * Developed a high-performance volume testing framework using Gatling, Java, and React, cutting request latency by 20%
-              * Led the front-end development of the Deal Management Website, significantly enhancing the user interface and experience
-              * Migrated critical on-prem services to AWS, unlocking improved scalability and system efficiency
+              * Improved development speed by 15% through the integration of GPT-4o and Gemini 1.5 Pro for automating Figma data extraction and code generation
+              * Built recursive LLM-based prompting systems to guide frontend development, ensuring smooth, step-by-step code creation
+              * Automated data extraction from Figma via the REST API, streamlining frontend processes and reducing manual effort
         - title: Engineering Analyst
           company: Goldman Sachs
           company_url: 'https://www.goldmansachs.com'
